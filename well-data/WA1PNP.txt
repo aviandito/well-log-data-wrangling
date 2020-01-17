@@ -1,0 +1,89 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Fourteen Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 00-200 
+
+Wildcat Well Walakpa 1 Permeability, Porosity, and Grain Density Information
+
+         Permeability                Grain      Oil          Water
+ Depth,   Horizontal,   Porosity,   Density   Saturation   Saturation
+  feet   millidarcies    percent     g/cc      percent      percent     Remarks
+2062         0.84          9.7        2.64       6.4         51.4       ss, f-cgr carb
+2063         6.46         12.7        2.67       0           22         ss, vf-fgr
+2064        83            17.2        2.66       0           50.8       ss, vf-fgr
+2065       123            22          2.66       0.5         51.9       ss, vf-fgr
+2066        68            21.3        2.66       1.1         52.4       ss, vf-fgr
+2067        10            17.3        2.67       4.1         49.8       ss, vf-fgr
+2068         0.11          9.1        2.73       0           72.4       ss, vf-fgr
+2069        92            21.2        2.66       4.9         56.6       ss, vf-fgr
+2070        31            20.1        2.66       0.6         61.9       ss, vf-fgr
+2071        38            20.3        2.66       5.1         59.9       ss, vf-fgr
+2072        55            20.8        2.67       3.5         51.7       ss, vf-fgr
+2073        43            20.3        2.66       1.1         55         ss, vf-fgr
+2074        25            19.9        2.78       2.9         44.5       ss, vf-fgr
+2075       157            25.1        2.68       3.5         52.3       ss, vf-fgr
+2076        95            22.5        2.67       3.8         45.2       ss, vf-fgr
+2077        71            21.3        2.66       3.7         48.6       ss, vf-fgr
+2078        64            21.1        2.67       2.6         52.2       ss, vf-fgr
+2079        12            19.2        2.7        3.2         47.8       ss, vf-mgr
+2080         0.05         12.7        2.67       1           81.7       sltst, sdy
+2081         0.8          11.2        2.69       1.1         89.9       sltst, sdy
+3051         2.26         17.2        2.67                              ss, vf-fgr
+3052         0.53          2.3        3.17                              ss, vf-fgr, sid
+3053         0.19         13          2.68                              ss, vf-fgr
+3054         0.87         14.9        2.66                              ss, vf-fgr
+3055         3.67         17.5        2.66                              ss, vf-fgr
+3056         0.69         14.1        2.67                              ss, vf-fgr
+3057         4.19         16.4        2.68                              ss, vf-fgr
+3058        13            18.9        2.64                              ss, vf-fgr
+3059         6.69         17.8        2.67                              ss, vf-fgr
+3060        20            19.5        2.66                              ss, vf-fgr
+3061         8.66         17.1        2.67                              ss, vf-fgr
+3062        25            19.8        2.66                              ss, vf-fgr
+3063         8.94         18.3        2.65                              ss, vf-fgr
+3064         1.42         14.8        2.67                              ss, vf-fgr
+3065         0.4          11.9        2.72                              ss, vf-fgr
+3066         4.95         17.2        2.65                              ss, vf-fgr
+3067         6.53         16.4        2.09                              ss, vf-fgr, sid
+3068        13            18.3        2.69                              ss, vf-fgr
+3069        20            19.1        2.65                              ss, vf-fgr
+3070         0.63         15.8        2.67                              ss, vf-fgr
+3071         0.6          16          2.66                              ss, vf-fgr
+3072         0.57         15.6        2.67                              ss, vf-fgr
+3073         0.33         14          2.69                              ss, vf-fgr
+3074         0.28         14          2.67                              ss, vf-fgr
+3075         0.07          9.2        2.68                              ss, vf-fgr
+3076         0.09         19.6        2.66                              ss, vf-fgr
+3077         1.41         16.6        2.67                              ss, vf-fgr
+3078         1.53         16          2.74                              ss, vf-fgr
+3079         1.19         17.1        2.66                              ss, vf-fgr
+3080         0.75         17          2.67                              ss, vf-fgr
+3081         1.11         17.4        2.67                              ss, vf-fgr
+3082         0.33         14.7        2.67                              ss, vf-fgr
+3083         0.07         12.4        2.77                              ss, vf-fgr
+3084         0.17         12.9        2.67                              ss, vf-fgr
+3085         0.14         13.5        2.68                              ss, vf-fgr
+3086         0.19         13.5        2.68                              ss, vf-fgr
+3087                       4.8        3.12                              ss, vf-fgr, sid
+3088         0.09         11.5        2.67                              ss, vf-fgr slty
+3089         0.28         15.5        2.68                              ss, vf-fgr slty
+3090         0.31         15.7        2.67                              ss, vf-fgr slty
+3091         0.16         13.5        2.68                              ss, vf-fgr slty
+3092         0.24         15.2        2.69                              ss, vf-fgr slty
+3093         0.09         11.5        2.67                              ss, vf-fgr slty
+3094         0.07         10.5        2.67                              ss, vf-fgr slty
+3095         0.14         11.5        2.67                              ss, vf-fgr slty
+3096         0.09         11.9        2.67                              ss, vf-fgr slty
+
+
+Data Source:
+Core Laboratories (3 sheets)
+Drilling fluid:  WBM
+Date of measurement:  1/14/80
+Measurement method:  porosity by Boyles law method.
+

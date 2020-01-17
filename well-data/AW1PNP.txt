@@ -1,0 +1,25 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Fourteen Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 00-200 
+
+Wildcat Well Awuna 1 Permeability, Porosity, and Grain Density Information
+
+         Permeability,               Grain
+Depth,   Horizontal,     Porosity,   Density,
+feet     millidarcies    percent     g/cc       Remarks
+3664        0.03           10.2       2.71      ss, vf-fgr, cly 
+3665        <.01            8.5       2.71      ss, vf-fgr, cly 
+3666        0.05            7.9       2.7       ss, vf-fgr, cly, sc carb 
+
+
+Data Source:
+Core Laboratories (1 sheet)
+Drilling fluid: WBM
+Dates: 4/17/80
+

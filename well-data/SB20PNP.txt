@@ -1,0 +1,85 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Fourteen Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 00-200 
+
+Wildcat Well South Barrow 20 Permeability, Porosity, and Grain Density Information
+
+         Permeability                 Oil         Water
+ Depth,   Horizontal,   Porosity   Saturation   Saturation  
+  feet   millidarcies    percent    percent      percent     Remarks                    Description
+ 2247	    0.35	  12.4	      12.3	   65.2	                                ss, vfgr cly sl calc sid
+ 2248	    0.24	  12.3	       1.8	   73.3	                                ss, vfgr cly sl calc
+ 2249	    0.14	  12	       0.9	   78.5		                        ss, vfgr cly sl calc
+ 2250	    0.48	  11.8	       1.5	   81.2		                        ss, vfgr cly sl calc
+ 2251	   21	          21.7	      17.7	   58.7		                        ss, vf-fgr cly sl calc
+ 2252	   13	          13.2	      18.6	   56.5		                        ss, f-mgr foss sid
+ 2253	    1.25	  18.9	       6.3	   73.3		                        ss, f-cgr glauc foss
+ 2254	    1.99	  11.8	       1.6	   84.3		                        ss, f-mgr foss sid
+ 2255	   27	          12.3	      12.1	   62.1		                        ss, f-mgr foss sid
+ 2256	    4.4	          15.5	       9.1	   63.9		                        ss, vf-fmgr cly calc
+ 2257	   26	          21.1	      14.8	   54		                        ss, f-mgr cly calc
+ 2258	    4.95	  18	       8.6	   61.3		                        ss, f-mgr cly calc
+ 2259	    5.96	  18.5	       8.5	   63.7		                        ss, f-mgr cly calc
+ 2260	    0.28	  10.4	      17.8	   60.4		                        ss, f-mgr cly calc sid
+ 2261	  155	          22.6	      17.8	   46.7	         	                ss, f-mgr calc
+ 2262	  192	          24.2	      26.6	   43		                        ss, f-mgr calc
+ 2263	    7.36	  11.2	      14.4	   50.4		                        ls glauc foss
+ 2264	   30	          22	      15.6	   63.5		                        ss, vf-mgr cly sl calc
+ 2265	    1.59	  15.7	      21	   54		                        ss, f-mgr calc sid
+ 2266	    1.98	  12.8	       9.7	   58.1		                        ls, glauc foss
+ 2269	   20	          18.4	      29.6	   44.9		                        ss, vf-mgr calc sid
+ 2270	    0.82	  13.5	      28.4	   44.6		                        ss, vf-mgr calc sid
+ 2271	    1.01	   7.5	      13.7	   44.6		                        ls, glauc foss
+ 2272	  128	          21.6	      35	   38	   	                        ss, vf-fgr cly sl calc
+ 2273	   35	          19.6	      29.8	   44.2	   	                        ss, vf-fgr cly sl calc
+ 2274	   25	          19.5	      23.2	   55.6		                        ss, vf-fgr cly sl calc
+ 2275	   16	          18.6	      19.1	   53.7		                        ss, vf-fgr cly sl calc
+ 2276	    0.71	  10.5	      13.8	   64.4		                        ss, vf-fgr cly sl calc sid
+ 2277	    5.18	  15.5	      15.8	   51		                        ss, vf-fgr cly sl calc
+ 2278	   21	          18.7	      27	   48.9		                        ss, vf-fgr cly sl calc
+ 2279	    4.86	  14.4	      20.5	   50.6		                        ss, vf-fgr cly sl calc
+ 2280	   15	          19.4	      18.5	   56.5		                        ss, vf-fgr cly sl calc
+ 2281	    7.67	  16.1	      20.7	   50.6		                        ss, vf-fgr cly sl calc
+ 2282	   25	          18.9	      25.4	   48.6	   	                        ss, vf-fgr cly sl calc
+ 2283	    7.32	  16.3	      23.6	   46.1		                        ss, vf-fgr cly sl calc
+ 2284	   36	          19.8	      21.2	   52.9		                        ss, vf-fgr cly sl calc
+ 2285	    0.57	   9.5	      15.3	   52.5		                        ss, vf-fgr cly sl calc sid
+ 2286	   57	          21.1	      23.4	   51		                        ss, vf-fgr cly sl calc
+ 2287	    8.83	  17.7	      21	   57.4		                        ss, vf-fgr cly sl calc
+ 2288	    7.01	  15.8	      20.9	   61.1		                        ss, vf-fgr cly sl calc
+ 2289	    6.31	  16.4	      14.8	   66		                        ss, vf-fgr cly sl calc
+ 2290	   24	          19.2	      20.9	   65.6		                                ss, vf-fgr cly sl calc
+ 2291	    6.19	  14.6	      15.3	   53.6		                        ss, vf-fgr cly sl calc
+ 2292	    1.43	  14	      16	   57.8		                        ss, vf-fgr cly sl calc
+ 2293	    0.19	   7	      11	   58.3		                        ss, vf-fgr cly  sid sl calc
+ 2294	   14	          18.9	      17.3	   60.7		                        ss, vf-fgr cly sl calc
+ 2295	   45	          18.7	      29.6	   37		                        ls, sdy foss
+ 2296	  694	          27	      37.3	   45		                        ss, f-mgr foss
+ 2297	    0.06	   5	      10.6	   48.5		                        ls, slty lams
+ 2299	  484	          25.5	      27	   43.8		                        ss, f-mgr foss
+ 2300	    4.95	  13.4	      34.7	   33.6		                        ss, vf-fgr cly sid foss
+ 2301	   52	          21.5	      27.4	   47.2		                        ss, f-mgr foss
+ 2302	    9.65	  15.4	      27.9	   27.9		                        ss, vf-mgr cly foss
+ 2303	    3.45	  15.9	       6.7	   66.8		                        ss, vf-mgr cly foss sid
+ 2304	   46	          21.5	      23.9	   53.5		                        ss, vf-mgr cly foss
+ 2305	  449	          24.4	      28.2	   37.9		                        ss, f-mgr foss
+ 2306	    0.14	   5.5	       5.8	   46.6		                        ls, foss
+ 2307	    5.43	   6.7	       4.3	   71		                        ls, foss glauc
+ 2308	    4.12	  14.4	       7.6	   53.9		                        ls, foss
+ 2309	  609	          23.9	      40.5	   23.7	                                ss, f-mgr foss
+ 2310	    0.33	   9.6	       8.6	   46.8		                        ls, foss
+ 2311	   50	          15.1	       1.4	   54.3	     horizontal fracture	ls, foss glauc sdy
+ 2312	   35	          10.7	      24.5	   37.4	     horizontal fracture	ls, foss sid sdy
+ 2313	   46	           4.8	      14.1	   47.1	     horizontal fracture	ls, foss
+
+Data Source:
+Core Laboratories, Anchorage
+23 April 1980
+Drilling Fluid:  WBM
+

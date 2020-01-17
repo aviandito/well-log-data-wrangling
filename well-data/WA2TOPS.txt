@@ -1,0 +1,30 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Fourteen Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 00-200 
+
+
+Wildcat Well Walakpa 2 - Depths to Selected Stratigraphic Horizons
+
+WELL NAME         ROCK UNIT                                   DEPTH, FEET
+WALAKPA 2         Surficial Deposits and/or Gubik Formation      17
+WALAKPA 2         Torok Formation                                50
+WALAKPA 2         Pebble Shale Unit                            2205
+WALAKPA 2         Kingak Shale                                 2640
+WALAKPA 2         Sag River Sandstone                          3845
+WALAKPA 2         Shublik Formation                            3885
+WALAKPA 2         Basement Complex                             4300
+
+Data Source
+Table 15.3. - Total depth and depths to selected stratigraphic horizons
+for Government-drilled wells on the North Slope of Alaska., 
+in:
+
+Gryc, George, Ed., 1988, Geology and exploration of the National Petroleum
+     Reserve in Alaska, 1974 to 1982, U.S. Geological Survey Professional 
+     Paper 1399, Pgs. 322 - 324.

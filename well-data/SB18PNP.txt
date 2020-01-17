@@ -1,0 +1,78 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Fourteen Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 00-200 
+
+Wildcat Well South Barrow 18 Permeability, Porosity, and Grain Density Information
+
+         Permeability               Grain       Oil         Water
+ Depth,   Horizontal,   Porosity   Density   Saturation   Saturation  Core
+  feet   millidarcies    percent     g/cc     percent      percent    Run    Remarks              Description
+1990.00      3.17         16.60      2.66       4.60         68.20     4                          ss, vf-fgr cly
+1991.00      3.79         13.30      2.68       4.20         70.40     4                          ss, vf-fgr cly
+1992.00    115.00         19.90      2.66       6.00         72.40     4                          ss, vf-fgr cly
+1993.00                   18.30      2.66       4.40         68.00     4     sum fluid analysis   ss, vf-fgr cly
+1994.00                   15.40      2.62       5.30         69.60     4     sum fluid analysis   ss, vf-fgr cly
+1995.00                   17.50      2.65       5.70         71.60     4     sum fluid analysis   ss, vf-fgr cly
+1996.00                   17.50      2.61       5.90         69.00     4     sum fluid analysis   ss, vf-fgr cly
+1997.00      0.07          9.60      2.68       5.00         62.70     4                          ss, vf-fgr cly
+1998.00                   21.50      2.66       3.60         65.50     4     sum fluid analysis   ss, vf-fgr cly
+1999.00      0.68         12.10      2.69       8.70         59.50     4                          ss, vf-fgr cly
+2000.00     91.00         22.10      2.64       3.40         71.20     4                          ss, vf-mgr cly
+2001.00                   16.90      2.65       4.20         54.30     4     sample failure       ss, vf-mgr cly
+2002.00      1.33         14.80      2.65       6.50         67.20     4                          ss, vf-mgr cly
+2003.00    111.00         20.20      2.65       4.50         51.20     4                          ss, vf-mgr cly
+2004.00      0.41         12.20      2.67       8.20         46.60     4                          ss, vf-fgr cly
+2005.00     14.00         16.90      2.64      11.50         65.60     4                          ss, vf-fgr cly
+2006.00                   19.30      2.63       6.90         53.10     4     sum fluid analysis   ss, vf-fgr cly
+2007.00     70.00         20.80      2.64       4.90         37.20     4                          ss, vf-fgr cly
+2008.00     13.00         17.10      2.64       9.00         22.40     4                          ss, vf-fgr cly
+2009.00     10.00         16.40      2.65       9.40         51.80     4                          ss, vf-fgr cly
+2010.00      1.05         13.60      2.66       10.80        53.90     4                          ss, vf-fgr cly
+2011.00     27.00         19.20      2.62       9.40         58.50     4                          ss, vf-fgr cly
+2012.00      8.17         16.70      2.64      11.50         50.90     4                          ss, vf-fgr cly
+2013.00      6.27         16.90      2.65      11.00         53.60     4                          ss, vf-fgr cly
+2014.00                   18.10      2.64      11.20         49.80     4     sum fluid analysis   ss, vf-fgr cly
+2015.00     20.00         17.50      2.64      13.70         58.50     4                          ss, vf-fgr cly
+2016.00     11.00         17.60      2.65       8.60         50.30     4                          ss, vf-fgr cly
+2017.00                   18.70      2.64      10.70         47.50     4     sum fluid analysis   ss, vf-fgr cly
+2018.00      2.64         15.60      2.64       9.90         57.50     4                          ss, vf-fgr cly
+2051.00    369.00         22.10      2.65       8.00         59.70     5                          ss, f-mgr
+2052.00    207.00         21.00      2.69       8.80         62.40     5                          ss, f-mgr
+2053.00   2421.00         27.00      2.62      15.90         60.30     5                          ss, f-mgr
+2054.00    297.00         18.10      2.73      11.80         53.70     5                          ss, f-mgr, sid
+2055.00     78.00         12.40      3.00      12.40         49.60     5                          ss, f-mgr, sid
+2056.00    309.00         21.50      2.64       9.10         54.80     5                          ss, f-mgr
+2057.00     38.00         11.30      2.93      10.00         47.70     5                          ss, vf-mgr sid glauc
+2058.00   1678.00         25.20      2.66      10.60         50.80     5                          ss, f-mgr
+2059.00   2627.00         26.60      2.63       9.30         47.60     5                          ss, f-mgr
+2060.00                   22.40      2.67      12.80         61.60     5     sample failure       ss, f-mgr, cly
+2061.00    754.00         22.40      2.66      15.10         61.50     5                          ss, f-mgr
+2062.00     54.00         13.10      2.90      12.60         48.50     5                          ss, vf-mgr, sid
+2063.00    392.00         21.70      2.68      9.90          48.20     5                          ss, vf-mgr
+2064.00   1036.00         24.70      2.65       8.10         45.00     5                          ss, vf-mgr
+2065.00     63.00         19.90      2.66      15.30         66.30     5                          ss, vf-mgr, cly
+2066.00                   14.20      2.82      16.00         62.10     5     sum fluid analysis   ss, vf-mgr, cly
+2072.00      8.70         16.20      2.70      11.80         81.10     6                          ss, vf-mgr sid
+2073.00      6.83         16.20      2.68       8.00         58.90     6                          ss, vf-mgr sid
+2074.00      5.96         15.10      2.70       8.70         83.60     6                          ss, vf-mgr sid
+2075.00     40.00         17.90      2.68      14.70         69.20     6                          ss, vf-mgr sid
+2076.00     19.00         17.90      2.68       9.30         62.50     6                          ss, vf-mgr sid
+2077.00      1.90         14.40      2.71       9.80         61.80     6                          ss, vf-mgr sid
+2078.00      0.20          9.90      2.65       9.00         57.80     6                          ss, vf-fgr cly sc sid
+2079.00      2.08         14.20      2.64       6.70         75.10     6                          ss, vf-fgr cly sc sid
+2080.00      1.56         10.40      2.67       8.40         78.70     6                          ss, vf-fgr cly sc sid
+2081.00      0.54         11.30      2.67       9.80         74.40     6                          ss, vf-fgr cly sc sid
+2082.00      0.87         12.50      2.65       8.00         77.40     6                          ss, vf-fgr cly sc sid
+2083.00      0.14          9.50      2.67       6.60         76.50     6                          ss, vf-fgr cly sc sid
+2084.00      0.63         13.00      2.65      11.60         73.40     6                          ss, vf-fgr cly sc sid
+2085.00      1.96         13.30      2.65       8.00         75.00     6                          ss, vf-fgr cly sc sid
+
+
+Data Source:
+

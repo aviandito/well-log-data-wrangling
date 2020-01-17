@@ -1,0 +1,26 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Fourteen Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 00-200 
+
+Wildcat Well Tunalik 1 Permeability, Porosity, and Grain Density Information
+
+         Permeability               Grain
+ Depth,   Horizontal,   Porosity,   Density
+  feet   millidarcies   percent      g/cc     Remarks
+ 5558        0            7.2         2.7     ss, vfg, v calc
+ 5559        0            5.2         2.69    ss, vfg, v calc
+ 5560        0.1         10.8         2.69    ss, vfg, v calc
+ 5561        0.3         10.8         2.69    ss, vfg, v calc
+
+Data Source:
+Core Laboratories (1 sheet)
+Drilling fluid:  WBM
+Dates:  6/6/79
+Measurement method:  porosity by Boyles law method.
+

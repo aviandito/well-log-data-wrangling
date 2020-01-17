@@ -1,0 +1,170 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Fourteen Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 00-200 
+
+Wildcat Well East Simpson 2 Permeability, Porosity, and Grain Density Information
+
+         Permeability   Permeability                      Grain           Oil           Total
+ Depth,   Horizontal,     Vertical,      Porosity        Density      Saturation        Water                         Analysis
+  feet   millidarcies   millidarcies      percent         g/cc          percent        percent    Core Type           method              Remarks
+  1150        44                           29.2           2.65                                    sidewall            Dean-Stark          ss, vfgr, slty
+  1482        338                          30.3           2.68                                    sidewall            Dean-Stark          ss, vf-fgr slty
+  1754        211                          29.3           2.71                                    sidewall            Dean-Stark          ss, vf-fgr cly slty
+  2326        40                           27.8           2.65                                    sidewall            Dean-Stark          ss, vfr slty
+  2340        20                           26.9           2.64                                    sidewall            Dean-Stark          ss, vfr slty
+  2387        296                          28.6           2.68                                    conventional        full diameter       ss, fgr
+  2388        332                          29.2           2.69                                    conventional        full diameter       ss, fgr
+  2389        232                          28.2           2.69                                    conventional        full diameter       ss, fgr
+  2390        153                          27.4           2.69                                    conventional        full diameter       ss, fgr
+  2391        160                          27.7           2.69                                    conventional        full diameter       ss, fgr
+  2392        89                           26.4           2.69                                    conventional        full diameter       ss, vf-fgr
+  2393        12                           22.9            2.7                                    conventional        full diameter       ss, vfgr
+  2394        94                           26.6            2.7                                    conventional        full diameter       ss, vf-fgr
+  2395        116                          26.9            2.7                                    conventional        full diameter       ss, vf-fgr
+  2396        89                           26.1            2.7                                    conventional        full diameter       ss, vf-fgr
+  2397        80                           26.2            2.7                                    conventional        full diameter       ss, vf-fgr
+  2398        63                           25.6           2.69                                    conventional        full diameter       ss, vf-fgr
+  2399       3.77                          21.7           2.71                                    conventional        full diameter       ss, vf-fgr
+  2400        88                           26.4           2.69                                    conventional        full diameter       ss, vf-fgr
+  2401        32                           24.8            2.7                                    conventional        full diameter       ss, vf-fgr
+  2402        20                           24.1            2.7                                    conventional        full diameter       ss, vfgr carb lam
+  2403        74                            26             2.7                                    conventional        full diameter       ss, vfgr
+  2404        43                           25.3            2.7                                    conventional        full diameter       ss, vfgr
+  2405       7.75                          24.2            2.7                                    conventional        full diameter       ss, vfgr
+  2406        49                           25.2           2.69                                    conventional        full diameter       ss, vfgr
+  2407        38                           24.8            2.7                                    conventional        full diameter       ss, vfgr
+  2408        61                           25.5           2.69                                    conventional        full diameter       ss, vf-fgr
+  2409        105                          26.5           2.69                                    conventional        full diameter       ss, fgr
+  2418       9.79                          23.8           2.68                                    sidewall            Dean-Stark          ss, vfr slty
+  2436        31                            29            2.67                                    sidewall            Dean-Stark          ss, vfr slty
+  2508       5.63                          24.2           2.66                                    sidewall            Dean-Stark          ss, vfr slty
+  5694                                      23            2.64                                    sidewall            Dean-Stark          ss, vfr slty
+  6057       0.05                           11            2.69                                    conventional        full diameter       ss, vf-fgr
+  6058       0.02                           8.1           2.71                                    conventional        full diameter       ss, vf-fgr carb lams calc
+  6059       0.12                          11.5           2.66                                    conventional        full diameter       ss, vf-fgr carb lams
+  6060       0.12                           12            2.66                                    conventional        full diameter       ss, vf-fgr carb lams
+  6061       0.63                          14.1           2.68                                    conventional        full diameter       ss, vf-fgr sl calc
+  6062       0.46                           14            2.67                                    conventional                            ss, vf-fgr
+  6063       0.48                          14.2           2.68                                    conventional                            ss, vf-fgr
+  6064       0.43                          14.1           2.67                                    conventional                            ss, vf-fgr
+  6065        0.1                          12.9            2.7                                    conventional                            ss, vf-fgr
+  6066       0.41                          14.6           2.68                                    conventional                            ss, vf-fgr
+  6067       0.48                          13.8           2.67                                    conventional                            ss, vf-fgr
+  6068        0.6                          14.5           2.69                                    conventional                            ss, vf-fgr
+  6069       0.46                          14.3           2.68                                    conventional                            ss, vf-fgr
+  6070       0.29                          13.4           2.68                                    conventional                            ss, vf-fgr
+  6071       0.36                          13.8           2.68                                    conventional                            ss, vf-fgr
+  6072       0.26                          13.7           2.67                                    conventional                            ss, vf-fgr
+  6073       0.14                          13.2           2.68                                    conventional                            ss, vf-fgr
+  6074       0.38                          13.8           2.68                                    conventional                            ss, vf-fgr fn carb lams
+  6075       0.31                          14.6           2.67                                    conventional                            ss, vf-fgr
+  6077       0.41                           14            2.68                                    conventional                            ss, vf-fgr
+  6078       0.39                          14.2           2.66                                    conventional                            ss, vf-fgr fn carb lams
+  6079       0.26                          13.6           2.68                                    conventional                            ss, vf-fgr fn carb lams
+  6080        0.1                          13.3           2.68                                    conventional                            ss, vf-fgr
+  6081       0.02                           12            2.67                                    conventional                            ss, vf-fgr carb lams
+  6083       0.51                          10.6           2.63                                    conventional                            ss, vf-fgr carb lams
+  6705       0.73                           21            2.69            1.2           82.4      conventional                            ss, vfgr
+  6706       0.19                          21.6           2.71            3.9           77.8      conventional                            ss, vfgr
+  6707       3.22                          23.9           2.68            1.2            85       conventional                            ss, vfgr
+  6708       0.12                          22.3           2.71           10.7           48.1      conventional                            ss, vfgr
+  6709        0.9                          22.7           2.71            1.2            83       conventional                            ss, vfgr
+  6710       0.19                           19            2.72            3.2            82       conventional                            ss, vfgr
+  6711       <.01                           7.2           2.67            2.8           74.9      conventional                            ss, vfgr calc
+  6712       1.72                          23.2            2.7            3.5           70.7      conventional                            ss, vfgr
+  6713       0.48                          20.9            2.7            2.9           81.5      conventional                            ss, vfgr
+  6714       0.02                          16.2            2.7            1.1           68.4      conventional                            ss, vfgr
+  6715       0.17                          18.8           2.71            1.4           80.7      conventional                            ss, vfgr
+  6716       1.07                          21.4           2.68            3.4           73.1      conventional                            ss, vfgr
+  6717       0.65                          20.9           2.69            2.9           77.3      conventional                            ss, vfgr
+  6718       1.14                          22.8           2.68            8.8           69.6      conventional                            ss, vfgr
+  6719       2.39                          24.7           2.67            1.1           79.1      conventional                            ss, vfgr
+  6720       0.34                          21.8           2.68            1.1           76.1      conventional                            ss, vfgr
+  6721       2.68                          23.1           2.68                                    conventional                            ss, vfgr
+  6722       0.48                          20.3           2.68                                    conventional                            ss, vfgr
+  6723       0.41                          21.4           2.71                                    conventional                            ss, vfgr
+  6724       0.41                          19.6           2.68                                    conventional                            ss, vfgr
+  6725       0.59                          25.3            2.7                                    conventional                            ss, vfgr
+  6726       2.07                          22.3           2.67                                    conventional                            ss, vfgr
+  6727       0.46                          19.5           2.69                                    conventional                            ss, vfgr
+  6728        0.1                          13.3           2.68                                    conventional                            ss, vfgr calc
+  6729       0.89                          21.8           2.67                                    conventional                            ss, vfgr
+  6730       0.51                          22.8           2.68                                    conventional                            ss, vfgr
+  6731        0.1                          17.4           2.69                                    conventional                            ss, vfgr
+  6732       0.39                          19.1            267                                    conventional                            ss, vfgr
+  6733       0.12                          17.2           2.68                                    conventional                            ss, vfgr
+  6734       0.12                          17.4           2.66                                    conventional                            ss, vfgr
+  6735       0.46                          21.3           2.69                                    conventional                            ss, vfgr
+  7167        15                           15.1           2.68                                    conventional                            ss, vfgr slty calc
+  7168       7.95                          13.6            2.7                                    conventional                            ss, vfgr slty calc
+  7169       1.17                           7.1           2.64                                    conventional                            ss, vfgr slty
+  7170       0.84                           7.4           2.64                                    conventional                            ss, vfgr slty
+  7171       1.38                           7.8           2.64                                    conventional                            ss, vfgr slty
+  7172       0.08                           5.3           2.63                                    conventional                            ss, vfgr slty
+  7173       0.06                           2.9           2.64                                    conventional                            ss, vfgr slty
+  7174        428            250           15.6           2.64            5.1           34.4      conventional                            ss, vf-mgr slty
+ 7174.5       491            461            17            2.64                                    conventional                            ss, vf-mgr slty
+  7175        744            218           19.3           2.64            6.1           34.4      conventional                            ss, vf-mgr slty
+ 7175.5       139            388           10.3           3.26                                    conventional                            ss, vf-mgr slty pyr
+  7176        693            62            17.6           2.64            7.1           50.4      conventional                            ss, vf-mgr slty
+ 7176.5       347            215           15.6           2.76                                    conventional                            ss, vf-mgr slty pyr
+  7177        837            99            16.9           2.64            1.4           67.7      conventional                            ss, vf-mgr slty
+ 7177.5       464            60            17.2           2.64                                    conventional                            ss, vf-mgr slty
+  7178        903            36             19            2.64            7.4           44.4      conventional                            ss, vf-mgr slty
+ 7178.5       14             128           17.2           2.64                                    conventional                            ss, vf-mgr slty
+  7179        688            163           18.8           2.64            3.4           68.2      conventional                            ss, vf-mgr slty
+ 7179.5       801            138           17.5           2.64                                    conventional                            ss, vf-mgr slty
+  7180        875            74            17.5           2.64            1.5           70.3      conventional                            ss, vf-mgr slty
+ 7180.5       642            127           16.5           2.68                                    conventional                            ss, vf-mgr slty
+  7181        466            153           14.7           2.64            1.7            76       conventional                            ss, vf-mgr slty
+ 7181.5       499            171           15.4           2.64                                    conventional                            ss, vf-mgr slty
+  7182        0.1           0.02            3.6           2.64                                    conventional                            ss, vfgr slty cly
+  7183       <.01           <.01            2.1           2.64                                    conventional                            sltst
+  7184       0.17           0.04            5.7           2.64                                    conventional                            ss, vfgr v slty
+  7187        62             68            11.8           2.64                                    conventional                            ss, vfgr
+  7188        116            116           14.3           2.64                                    conventional                            ss, fgr
+  7189        95            9.11           13.1           2.64                                    conventional                            ss, fgr
+  7190        256            53            13.5           2.64                                    conventional                            ss, mgr
+  7248        280            166           15.4           2.62            3.1            45       conventional                            ss, m-cgr
+  7249       <.01           <.01            1.4           2.64                                    conventional                            ss, vfgr slty
+  7250        59            7.09           13.3           2.65            1.9           63.2      conventional                            ss, fgr
+  7251        341            21            12.9           2.62            0.8           51.5      conventional                            ss, m-cgr sc carb
+  7252        252            86             15            2.62             0            55.2      conventional                            ss, mgr sc carb
+  7253        854            129            14            2.63             0            55.3      conventional                            ss, m-cgr sc carb
+  7254        324                          15.6           2.64                                    conventional                            ss, m-cgr sc carb
+  7255        275                          12.8           2.63                                    conventional                            ss, m-cgr sc carb
+  7256        647                           14            2.63                                    conventional                            ss, m-cgr sc carb
+  7257        189                          17.7           2.64                                    conventional                            ss, fgr
+  7258        136                          14.4           2.63                                    conventional                            ss, fgr, sc carb
+  7259        100                          12.8           2.63                                    conventional                            ss, fgr, sc carb
+  7260        95                           13.8           2.63                                    conventional                            ss, fgr, sc carb
+  7261        198                          12.8           2.63                                    conventional                            ss, mgr
+  7262        195                          12.3           2.63                                    conventional                            ss, mgr
+  7263       2.61                           5.4           3.32                                    conventional                            ss, mgr pyr nodes
+  7264        72                            14            2.63                                    conventional                            ss, f-mgr
+  7265        170                          14.7           2.64                                    conventional                            ss, f-mgr
+  7266        10                            8.5           2.63                                    conventional                            ss, f-mgr
+  7267       3.39                            2            2.63                                    conventional                            sltst, sdy
+  7268        29                            8.5           2.63                                    conventional                            ss, vf-fgr
+  7269        40                           10.5           2.64                                    conventional                            ss, vf-fgr
+  7270        60                           10.2           2.63                                    conventional                            ss, f-mgr sc carb
+  7271       0.22                           4.5           2.64                                    conventional                            ss, fgr slty sc carb
+  7272       2.29                          10.4           2.62                                    conventional                            ss, fgr slty sc carb
+  7273       7.87                          10.7           2.64                                    conventional                            ss, fgr slty sc carb
+  7274        21                            9.1           2.63                                    conventional                            ss, fgr slty sc carb
+  7275       2.52                           6.9           2.64                                    conventional                            ss, vf-fgr
+  7276        2.6                           9.6           2.54                                    conventional                            ss, vf-fgr v carb
+  7277       1.35                           7.2           2.61                                    conventional                            ss, vf-fgr v carb
+
+
+Data Source:
+Data from:  Core Laboratories (6 sheets)
+Drilling fluid:  WBM
+Dates:  2/11/80, 2/25/79, 2/25/79, 2/25/79, 2/25/79, 2/25/79
+

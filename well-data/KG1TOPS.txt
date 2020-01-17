@@ -1,0 +1,35 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Fourteen Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 00-200 
+
+
+Wildcat Well Kugrua 1 - Depths to Selected Stratigraphic Horizons
+
+WELL NAME    ROCK UNIT                             DEPTH, FEET
+KUGRUA 1     Surficial Deposits                    25.00                 
+KUGRUA 1     Nanushuk Group                        80.00                 
+KUGRUA 1     Torok Formation                       2330.00               
+KUGRUA 1     Pebble Shale Unit                     6890.00               
+KUGRUA 1     Kingak Shale                          7200.00               
+KUGRUA 1     Sag River Sandstone                   9515.00               
+KUGRUA 1     Shublik Formation                     9650.00               
+KUGRUA 1     Fire Creek Siltstone Member           10010.00              
+KUGRUA 1     Ledge Sandstone Member                10345.00              
+KUGRUA 1     Kavik Member                          10820.00              
+KUGRUA 1     Echooka Formation, Sadlerochit Group  11005.00              
+KUGRUA 1     Lisburne Group                        11180.00              
+
+Data Source
+Table 15.3. - Total depth and depths to selected stratigraphic horizons
+for Government-drilled wells on the North Slope of Alaska., 
+in:
+
+Gryc, George, Ed., 1988, Geology and exploration of the National Petroleum
+     Reserve in Alaska, 1974 to 1982, U.S. Geological Survey Professional 
+     Paper 1399, Pgs. 322 - 324.

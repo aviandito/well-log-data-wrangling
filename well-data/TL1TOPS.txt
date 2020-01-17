@@ -1,0 +1,30 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Fourteen Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 00-200 
+
+
+Wildcat Well Tulageak 1 - Depths to Selected Stratigraphic Horizons
+
+WELL NAME         ROCK UNIT                                   DEPTH, FEET
+TULAGEAK 1        Surficial Deposits and/or Gubik Formation   17
+TULAGEAK 1        Torok Formation	                          100
+TULAGEAK 1        Pebble Shale Unit	                          2505
+TULAGEAK 1        Kingak Shale	                              2955
+TULAGEAK 1        Sag River Sandstone	                      3760
+TULAGEAK 1        Shublik Formation	                          3800
+TULAGEAK 1        Basement Complex	                          3960
+
+Data Source
+Table 15.3. - Total depth and depths to selected stratigraphic horizons
+for Government-drilled wells on the North Slope of Alaska., 
+in:
+
+Gryc, George, Ed., 1988, Geology and exploration of the National Petroleum
+     Reserve in Alaska, 1974 to 1982, U.S. Geological Survey Professional 
+     Paper 1399, Pgs. 322 - 324.

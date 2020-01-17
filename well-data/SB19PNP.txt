@@ -1,0 +1,90 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Fourteen Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 00-200 
+
+Wildcat Well South Barrow 19 Permeability, Porosity, and Grain Density Information
+
+         Permeability   Permeability,              Oil           Water
+ Depth,   Horizontal,     Vertical,    Porosity   Saturation   Saturation  Core       Core
+  feet   millidarcies   millidarcies   percent     percent      percent    Type       Run    Remarks
+1587.00     26.00         23.40                                            sidewall
+1636.00                                            Trace          63.6     sidewall
+1960.00     33.00         20.50                                            sidewall
+1964.00                                            Trace          55.3     sidewall
+1972.00    273.00         26.40                                            sidewall
+1976.00                                  1.1                      54.6     sidewall
+1980.00     18.00         19.20                                            sidewall
+1984.00                                  1.3                      58.8     sidewall
+1988.00     20.00         21.30                                            sidewall
+1992.00                                            Trace          60.1     sidewall
+1996.00      9.44         18.80                                            sidewall
+2000.00                                            Trace          55.6     sidewall
+2004.00     28.00         20.60                                            sidewall
+2014.00                                            Trace          52.1     sidewall
+2016.00     17.00         19.30                                            sidewall
+2018.00                                             1.6           40.9     sidewall
+2020.00     14.00         17.40                                            sidewall
+2022.00                                             1             42.2     sidewall
+2024.00     58.00         25.60                                            sidewall
+2026.00                                            Trace          40.3     sidewall
+2028.00     43.00         23.00                                            sidewall
+2032.00                                            Trace          41.7     sidewall
+2034.00     26.00         26.10                                            sidewall
+2036.00                                            Trace          48.3     sidewall
+2039.50      3.35          2.13         14.10      Trace          69.4                  2
+2040.50     61.00          6.88         18.90       5.6           68.2                  2
+2041.50     83.00         67            22.20       5.4           58                    2
+2042.50      5.75          4.4           2.00       1.9           80.2                  2
+2043.50     91.00          7.11          8.60       2.1           81.7                  2    horizontal fracture
+2044.50     14.00          8.55         13.90       7.1           50                    2
+2045.50      8.91         10            16.90      Trace          57.9                  2
+2046.50     24.00         20            14.30      Trace          60.6                  2
+2047.50      2.30          0.84         14.30      Trace          57.4                  2
+2048.50      2.06          2            13.70      Trace          69.7                  2
+2049.50      1.27          0.63         14.80      Trace          58.6                  2
+2050.50      2.12          1.07         13.60      Trace          62.1                  2
+2051.50      5.56          2.26         17.70       1.4           62.8                  2
+2052.50     12.00          1.37         19.90       1.2           53.6                  2
+2053.50      4.67          1.55         24.90       2             56.4                  2
+2054.50      3.43          1.6          16.40       4.5           66.4                  2
+2055.50      9.91          1.69         18.40       2.7           58.3                  2
+2056.50     11.00          4.19         20.00       2.5           58.9                  2
+2057.50      5.64          3.03         12.60       3.1           71.1                  2
+2058.50      9.38          4.12         11.60      Trace          76                    2
+2059.50     15.00         10            18.00       1.3           62.9                  2
+2060.50     11.00          1.94         20.80       2.4           51.3                  2
+2061.50      9.59          0.36         11.10      Trace          60.4                  2
+2062.50      4.40          2.49         17.10      Trace          59.8                  2
+2063.50     40.00          0.51         14.10      Trace          60.1                  2    horizontal fracture
+2064.50      6.34          0.42         15.00       4.9           59.3                  2
+2065.50      3.52          1.18         12.60      Trace          62.8                  2
+2066.50      5.96          0.51         14.10       5.1           67.7                  2
+2067.50      1.91          1.19         16.60       5.9           61.5                  2
+2068.50      6.69          3.23         16.00       6.1           59.6                  2
+2230.50      9.31          0.62          9.10                     44                    5
+2231.50    977.00        712            16.90       8.6           52.9                  5
+2232.50     17.30          2.4          11.70                     50.9                  5
+2233.50      9.13         38.4          15.00                     50                    5
+2234.50     19.70          7.28         18.60       0             55.5                  5
+2235.50      9.13          7.77         14.70       1.8           50.2                  5
+2236.50      7.18          8.68         13.70       3.8           48.7                  5
+2237.50     15.60          8.31         15.90                     47.9                  5
+2238.50      7.35          4.16         16.30                     54.1                  5
+2239.50      4.38          0.13         13.30       3.9           58.4                  5
+2240.50     38.00         11.8          17.10       3             53.4                  5
+2241.50     16.50         12.7          15.10       0.9           55.6                  5
+2242.50     16.40          9.04         17.40                     50.5                  5
+2243.50     82.80         24.8          22.10       1.2           48.1                  5
+2244.50     29.20         13.8          20.20       1.3           47.5                  5
+
+
+Data Source:
+Laboratory: Chemical & Geological Laboratories of Alaska (3 sheets)
+Dates: May 3, 1978; May 8, 1978; May 10, 1978 
+
